@@ -83,14 +83,31 @@ Embedded systems          ████████████████░░
 Web projects              ███████████████░░░░░
 
 
+
+
+
+
+
 [ GITHUB STATS ]
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parsozkn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsozkn&layout=compact&hide_border=true&theme=transparent" height="165"> </div>
 <div align="center"> <img src="https://streak-stats.demolab.com?user=parsozkn&hide_border=true&theme=transparent" width="70%"> </div>
+
+
+
+
+
+
 
 [ PHILOSOPHY ]
 Build it. Test it. Break it. Understand it. Improve it.
 
 I prefer learning by actually building things—especially projects that force me to understand what is happening underneath the interface.
+
+
+
+
+
+
 
 
 [ TOOLS ]
