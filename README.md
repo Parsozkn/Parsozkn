@@ -47,9 +47,7 @@ Giving old machines a second life. Linux optimization, lightweight desktop envir
 ## [ TECH STACK ]
 
 ### Languages & Dev
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,js" alt="Languages">
-</p>
+AI, ESP32, Linux
 
 ### Systems & Tools
 <p>
@@ -93,5 +91,4 @@ Security	Linux hardening / DevSecOps
 Thanks for visiting.
 Keep building. Keep learning. Keep breaking things.
 
-<img src="https://komarev.com/ghpvc/?username=parsozkn&style=flat-square&color=6366f1" alt="Profile views"></div> ```
-
+<img src="https://komarev.com/ghpvc/?username=parsozkn&style=flat-square&color=6366f1" alt="Profile views"></div>
