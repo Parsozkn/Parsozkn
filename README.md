@@ -46,8 +46,6 @@ Giving old machines a second life. Linux optimization, lightweight desktop envir
 
 ## [ TECH STACK ]
 
-### Languages & Dev
-AI, ESP32, Linux
 
 ### Systems & Tools
 <p>
