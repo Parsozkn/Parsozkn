@@ -63,14 +63,6 @@ Giving old machines a second life. Linux optimization, lightweight desktop envir
 
 ---
 
-## [ SECURITY FOCUS ]
-
-Security is part of the development process, not an afterthought.
-
-- **Privilege Escalation:** sudo / root permissions, service privileges, executable permissions.
-- **System Security:** systemd services, startup scripts, file permissions, authentication configuration.
-- **Supply Chain:** package verification, GPG signatures, external downloads, build-time dependencies.
-- **Application Security:** command injection, unsafe input handling, exposed secrets, unnecessary network access.
 
 
 
@@ -84,10 +76,6 @@ Security is part of the development process, not an afterthought.
 <div align="center"> <img src="https://streak-stats.demolab.com?user=parsozkn&hide_border=true&theme=transparent" width="70%"> </div>
 
 
-[ PHILOSOPHY ]
-Build it. Test it. Break it. Understand it. Improve it.
-
-I prefer learning by actually building things—especially projects that force me to understand what is happening underneath the interface.
 
 
 
