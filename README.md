@@ -76,7 +76,7 @@ Security is part of the development process, not an afterthought.
 
 ## [ WHAT I BUILD ]
 
-```text
+
 Linux distributions       ████████████████████
 System optimization       ██████████████████░░
 Embedded systems          ████████████████░░░░
