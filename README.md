@@ -72,7 +72,7 @@ Security is part of the development process, not an afterthought.
 - **Supply Chain:** package verification, GPG signatures, external downloads, build-time dependencies.
 - **Application Security:** command injection, unsafe input handling, exposed secrets, unnecessary network access.
 
----
+
 
 ## [ WHAT I BUILD ]
 
