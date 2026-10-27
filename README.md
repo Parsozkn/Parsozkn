@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="banner.jpg" alt="Profile Banner" style="width: 100%; border-radius: 8px;">
-</div>
 
 # Pars
 
