@@ -26,7 +26,7 @@ My interests lie in the intersection of software and hardware.
 ## [ PROJECTS ]
 
 ### Ankora Linux
-A Debian-based Linux distribution focused on lightweight desktop experiences, old hardware compatibility, and security-oriented configuration. Built with Refract for custom ISO creation.  
+A Devuan based Linux distribution focused on lightweight desktop experiences, old hardware compatibility, and security-oriented configuration. 
 *Status: Active Development*
 
 ### Ankora Linux Website
